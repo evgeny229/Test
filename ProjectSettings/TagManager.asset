@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - battot
+  - Zone
+  - death
+  - MovPl
+  - OtskakPlatform
+  - lava
+  - baseCollider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - player
+  - Gun
+  - PlayerBullet
+  - GunBullet
+  - traektor
+  - CamZone
+  - activePlate
+  - movedObj
+  - BackGrount
+  - Zone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer1
+    uniqueID: 1086791819
+    locked: 0

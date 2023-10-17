@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33e1a3d919f71c44d9268ca85c20a904, type: 3}
+  m_Name: Ring0
+  m_EditorClassIdentifier: 
+  _id: 0
+  _colors:
+  - {r: 0, g: 1, b: 0.9898002, a: 1}
+  - {r: 0.07820046, g: 1, b: 0, a: 1}
+  - {r: 1, g: 0.12679157, b: 0, a: 1}
+  CurrSprite: {fileID: 21300000, guid: bc7c46303c64e2c4fb9afa694b1cdaa1, type: 3}
+  _name: 
+  _typeOfAttack: 0
+  _healthCount: 0
+  _powerJump: 7000
+  _jumpCount: 30
+  _scale: 0
+  _rarity: 0
